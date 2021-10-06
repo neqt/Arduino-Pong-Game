@@ -1,1 +1,2 @@
-*.rb linguist-language=Arduino
+* linguist-vendored
+*.Arduino linguist-detectable=true
