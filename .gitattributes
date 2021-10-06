@@ -1,2 +1,2 @@
 * linguist-vendored
-*.Arduino linguist-detectable=true
+*.ino linguist-detectable=true
